@@ -13,7 +13,7 @@
 [![Checks](https://github.com/IgorKramar/sun-haven-create/actions/workflows/checks.yml/badge.svg)](https://github.com/IgorKramar/sun-haven-create/actions/workflows/checks.yml)
 [![MIT](https://img.shields.io/badge/code-MIT-84a879?style=flat-square)](LICENSE)
 
-[Русский](#что-добавлено) · [English](#english) · [План](ROADMAP.md) · [Проверки](docs/VERIFICATION.md) · [Изменения](CHANGELOG.md)
+[Скачать альфу](https://github.com/IgorKramar/sun-haven-create/releases/tag/v0.3.0-alpha) · [Русский](#что-добавлено) · [English](#english) · [План](ROADMAP.md) · [Проверки](docs/VERIFICATION.md) · [Изменения](CHANGELOG.md)
 
 </div>
 
@@ -125,7 +125,7 @@ dotnet run --project .\tests\Kinetics.Checks.csproj -c Release
 
 Tested in **Sun Haven v3.1.3b / Steam build 24721658**, Windows, BepInEx **5.4.23.5 x64**, on **14 October 2026**. Later game versions are not verified. Seventeen kinetics/persistence checks passed again on **31 October 2026**.
 
-**Install:** back up saves, install BepInEx separately, build using `build.ps1` with paths to your own game and loader, then copy `artifacts/BepInEx` into the game directory. Start through Steam. GitHub's source archive is not a ready-to-install mod package.
+**Install:** download the install ZIP from the [0.3.0-alpha release](https://github.com/IgorKramar/sun-haven-create/releases/tag/v0.3.0-alpha), back up saves, install BepInEx separately and copy the ZIP’s `BepInEx` folder into the game directory. Alternatively, build with `build.ps1` against your own game and loader. Start through Steam. GitHub's source archive is not a ready-to-install mod package.
 
 **Controls:** F8 opens/closes the Russian construction panel; P builds at the cursor, R changes output direction, T inserts one wheat, G collects one item, Delete dismantles an empty machine. Close the panel to walk. The workshop note is also in Russian.
 
