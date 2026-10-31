@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+.env
+.env.*
+*.user
+*.suo
+artifacts/
+packages/
+GameManaged/
+BepInEx/
+*.save
+*.zip

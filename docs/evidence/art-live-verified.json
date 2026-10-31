@@ -1,0 +1,56 @@
+{
+  "nonce": "5750a250-db6d-4a11-a616-98f077f3a7e7",
+  "result": "ok",
+  "scene": "2playerfarm",
+  "loaded": true,
+  "inventoryLogs": 43,
+  "inventoryWheat": 24,
+  "inventoryFlour": 1,
+  "machines": [
+    {
+      "kind": "Shaft",
+      "x": 360,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0,
+      "collisionActive": false
+    },
+    {
+      "kind": "Mill",
+      "x": 361,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0,
+      "collisionActive": true
+    },
+    {
+      "kind": "Belt",
+      "x": 362,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0,
+      "collisionActive": false
+    },
+    {
+      "kind": "Chest",
+      "x": 363,
+      "y": 94,
+      "wheat": 0,
+      "flour": 5,
+      "rpm": 0.0,
+      "collisionActive": true
+    },
+    {
+      "kind": "WaterWheel",
+      "x": 359,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0,
+      "collisionActive": true
+    }
+  ]
+}

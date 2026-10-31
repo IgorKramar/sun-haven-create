@@ -1,0 +1,50 @@
+{
+  "result": "ok",
+  "scene": "2playerfarm",
+  "loaded": true,
+  "inventoryLogs": 43,
+  "inventoryWheat": 27,
+  "inventoryFlour": 1,
+  "machines": [
+    {
+      "kind": "WaterWheel",
+      "x": 359,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0
+    },
+    {
+      "kind": "Shaft",
+      "x": 360,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0
+    },
+    {
+      "kind": "Mill",
+      "x": 361,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0
+    },
+    {
+      "kind": "Belt",
+      "x": 362,
+      "y": 94,
+      "wheat": 0,
+      "flour": 0,
+      "rpm": 32.0
+    },
+    {
+      "kind": "Chest",
+      "x": 363,
+      "y": 94,
+      "wheat": 0,
+      "flour": 2,
+      "rpm": 0.0
+    }
+  ]
+}
